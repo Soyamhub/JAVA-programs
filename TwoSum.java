@@ -15,7 +15,7 @@ public class TwoSum {
             for(int j = i+1; j < nums.length; j++){
                 if(remain == nums[j]){
                     result[1] = j;
-                    System.out.println(Arrays.toString(result));
+                    System.out.println(Arrays.toString(result));    // 31 ms
                     
                 }
             }
@@ -26,7 +26,7 @@ public class TwoSum {
         for(int i = 0; i < nums.length; i++){
             for(int j = i+1; j < nums.length; j++){
                 if(nums[i] + nums[j] == target){
-                    System.out.println(Arrays.toString(new int[]{i,j}));
+                    System.out.println(Arrays.toString(new int[]{i,j}));  // 38 ms
                 }
             }
         }     
