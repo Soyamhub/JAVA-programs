@@ -1,4 +1,7 @@
 import java.util.*;
+
+/* This program calculates the factorial of a given positive integer using a for loop. */
+
 class Factorial
 {
     
