@@ -1,4 +1,5 @@
 import java.util.*;
+/* A number is said to be a perfect number if the sum of its proper divisors ( i.e. all positive divisors excluding the number itself ) is equal to that number itself.  */
 
 class PerfectNumber {
     public static void main(String[] args) {
