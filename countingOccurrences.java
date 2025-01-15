@@ -1,4 +1,7 @@
 import java.util.*;
+
+/* This program counts the number of times a specific digit appears in a given number. */
+
 public class countingOccurrences {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

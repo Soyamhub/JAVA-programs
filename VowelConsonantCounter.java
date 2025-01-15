@@ -1,4 +1,7 @@
 import java.util.*;
+
+/* This program counts the number of vowels and consonants in a user-provided string. */
+
 class VowelConsonantCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);

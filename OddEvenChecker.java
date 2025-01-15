@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-class Odd_even_checker {
+/* This program checks if a user-provided number is odd or even and prints the result. */
+
+class OddEvenChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;

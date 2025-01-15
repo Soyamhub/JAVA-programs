@@ -1,6 +1,6 @@
-
 import java.util.Scanner;
 
+/* This program checks if a user-provided 3-digit number is an Armstrong number. */
 
 public class Armstrong {
     public static void main(String[] args) {
