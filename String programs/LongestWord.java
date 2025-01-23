@@ -1,5 +1,7 @@
 import java.util.*;
 
+/* Displaying longest word from the string */
+
 class LongestWord
 {
     public static void main(String[] args) {
