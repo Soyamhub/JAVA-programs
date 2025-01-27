@@ -1,16 +1,13 @@
-public class Pattern2 {
+public class NumberPattern2 {
     
-    /*
-    
+    /*  
     Output- 
-        *****
-        ****
-        ***
-        **
-        *
-
-     */
-
+        12345
+        1234
+        123
+        12
+        1 
+    */
     public static void main(String[] args) {
         
         int row, column;
@@ -18,7 +15,7 @@ public class Pattern2 {
         {
             for (column = 1; column<=row; column++)
             {
-                System.out.print("*");
+                System.out.print(column);
             }
             System.out.println();
         }

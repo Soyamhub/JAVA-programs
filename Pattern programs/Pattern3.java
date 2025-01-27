@@ -1,5 +1,16 @@
 public class Pattern3 {
     
+    /*
+    
+    Output- 
+        *****
+         ****
+          ***
+           **
+            *
+
+     */
+
     public static void main(String[] args) {
         
         int row, column, i;
