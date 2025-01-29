@@ -1,12 +1,14 @@
 public class Pyramid {
     
 /*
-    Output-
-        1
-    121
-    12321
-    1234321
-    123454321
+
+Output-
+    1
+   121
+  12321
+ 1234321
+123454321
+
  */
 public static void main(String[] args) {
     
