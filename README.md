@@ -1,6 +1,9 @@
 # Basic Java Programs  
 
-This repository serves as a comprehensive collection of foundational Java programs, designed to reinforce core programming concepts and enhance problem-solving skills. It is ideal for beginners and those looking to strengthen their understanding of Java.  
+![Java](https://img.shields.io/badge/JDK-23-blue?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Soyamhub/JAVA-programs)
+
+This repository is a thorough compilation of essential Java programs aimed at reinforcing fundamental programming concepts and improving problem-solving abilities. It is perfect for beginners and anyone seeking to deepen their comprehension of Java.
 
 ## Key Features  
 - **Core Concepts**:  
